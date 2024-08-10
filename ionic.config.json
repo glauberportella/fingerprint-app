@@ -1,0 +1,7 @@
+{
+  "name": "fingerprint-app",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular-standalone"
+}
