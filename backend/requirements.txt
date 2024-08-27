@@ -1,0 +1,4 @@
+opencv-python
+numpy
+fingerprint-feature-extractor
+fingerprint_enhancer
